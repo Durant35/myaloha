@@ -1,4 +1,0 @@
-name: myaloha
-version: 1
-#通过config.yaml文件配置SAE运行环境
-expire: time 600
